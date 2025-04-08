@@ -1,4 +1,3 @@
 Welcome to TestChat!
 test
-123
-test2
+123456
