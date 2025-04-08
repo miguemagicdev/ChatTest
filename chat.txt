@@ -3,3 +3,4 @@ Welcome to TestChat!
 migue: test
 migue: hi?
 migue: lol
+migue: another test msg
