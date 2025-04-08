@@ -4,4 +4,4 @@ migue: test
 migue: hi?
 migue: lol
 migue: another test msg
-migue: test
+migue: messages are taking way long to be sent...
