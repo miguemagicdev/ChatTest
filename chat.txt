@@ -9,3 +9,4 @@ migue: this thing became super slow to normal fast
 migue: what happened
 migue: nvm
 migue: hello test msg for video!!
+migue: hi pavel
