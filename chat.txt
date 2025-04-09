@@ -11,3 +11,4 @@ migue: nvm
 migue: hello test msg for video!!
 migue: hi pavel
 migue: test
+migue: this is bugged
