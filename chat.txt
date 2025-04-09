@@ -10,3 +10,4 @@ migue: what happened
 migue: nvm
 migue: hello test msg for video!!
 migue: hi pavel
+migue: test
