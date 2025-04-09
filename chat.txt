@@ -19,3 +19,4 @@ migue: another test message bc i updated the code
 miguemagic: i changed my user!!
 miguemagic: im alone...
 miguemagic: oof
+miguemagic: my friend pavel doesnt want to test chattest sadly
